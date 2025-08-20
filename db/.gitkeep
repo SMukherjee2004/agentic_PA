@@ -1,0 +1,1 @@
+# Initialize SQLite DB at runtime; this file exists so the folder is created and mounted in Docker.

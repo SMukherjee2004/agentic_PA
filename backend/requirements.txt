@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+SQLAlchemy
+transformers
+torch
+google-api-python-client
+google-auth
+google-auth-oauthlib
+python-multipart
+httpx
+pytest
